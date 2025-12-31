@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\bin\Debug\net8.0\NewAccountingSoftware.cs.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\bin\Debug\net8.0\NewAccountingSoftware.cs.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\bin\Debug\net8.0\NewAccountingSoftware.cs.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\bin\Debug\net8.0\NewAccountingSoftware.cs.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\bin\Debug\net8.0\NewAccountingSoftware.cs.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\refint\NewAccountingSoftware.cs.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\NewAccountingSoftware.cs.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\NewAccountingSoftware.cs\obj\Debug\net8.0\ref\NewAccountingSoftware.cs.dll
