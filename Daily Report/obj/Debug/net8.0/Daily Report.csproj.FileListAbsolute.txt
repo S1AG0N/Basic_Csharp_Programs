@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\net8.0\Daily Report.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\net8.0\Daily Report.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\net8.0\Daily Report.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\net8.0\Daily Report.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\bin\Debug\net8.0\Daily Report.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\refint\Daily Report.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\Daily Report.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Daily Report\obj\Debug\net8.0\ref\Daily Report.dll
