@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\bin\Debug\net8.0\Shipping Quote.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\bin\Debug\net8.0\Shipping Quote.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\bin\Debug\net8.0\Shipping Quote.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\bin\Debug\net8.0\Shipping Quote.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\bin\Debug\net8.0\Shipping Quote.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\refint\Shipping Quote.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\Shipping Quote.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Shipping Quote\obj\Debug\net8.0\ref\Shipping Quote.dll
