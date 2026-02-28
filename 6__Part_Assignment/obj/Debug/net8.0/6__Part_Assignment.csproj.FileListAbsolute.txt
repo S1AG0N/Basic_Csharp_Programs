@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\bin\Debug\net8.0\6__Part_Assignment.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\bin\Debug\net8.0\6__Part_Assignment.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\bin\Debug\net8.0\6__Part_Assignment.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\bin\Debug\net8.0\6__Part_Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\bin\Debug\net8.0\6__Part_Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\refint\6__Part_Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\6__Part_Assignment.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\6__Part_Assignment\obj\Debug\net8.0\ref\6__Part_Assignment.dll
