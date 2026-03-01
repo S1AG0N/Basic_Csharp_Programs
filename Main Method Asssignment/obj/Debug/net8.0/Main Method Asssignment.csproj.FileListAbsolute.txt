@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\bin\Debug\net8.0\Main Method Asssignment.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\bin\Debug\net8.0\Main Method Asssignment.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\bin\Debug\net8.0\Main Method Asssignment.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\bin\Debug\net8.0\Main Method Asssignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\bin\Debug\net8.0\Main Method Asssignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\refint\Main Method Asssignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\Main Method Asssignment.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Main Method Asssignment\obj\Debug\net8.0\ref\Main Method Asssignment.dll
