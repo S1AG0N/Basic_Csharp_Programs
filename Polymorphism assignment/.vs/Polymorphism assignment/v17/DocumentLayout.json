@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|c:\\users\\phil\\desktop\\basic_c#_programs\\polymorphism assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|c:\\users\\phil\\desktop\\basic_c#_programs\\polymorphism assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|c:\\users\\phil\\desktop\\basic_c#_programs\\polymorphism assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|c:\\users\\phil\\desktop\\basic_c#_programs\\polymorphism assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2CF293-D0F7-4D6D-8145-CC3824861EAD}|Polymorphism assignment.csproj|solutionrelative:iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:32:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:26:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "IQuittable.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\IQuittable.cs",
+              "RelativeToolTip": "IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:25:30.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_C#_Programs\\Polymorphism assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:22:15.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
