@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\bin\Debug\net8.0\Operators Assignment.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\bin\Debug\net8.0\Operators Assignment.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\bin\Debug\net8.0\Operators Assignment.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\bin\Debug\net8.0\Operators Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\bin\Debug\net8.0\Operators Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\refint\Operators Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\Operators Assignment.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Operators Assignment\obj\Debug\net8.0\ref\Operators Assignment.dll
