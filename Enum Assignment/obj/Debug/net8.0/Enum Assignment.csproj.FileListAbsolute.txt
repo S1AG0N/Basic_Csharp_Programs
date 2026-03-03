@@ -1,0 +1,14 @@
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.AssemblyInfoInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.AssemblyInfo.cs
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\bin\Debug\net8.0\Enum Assignment.exe
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\bin\Debug\net8.0\Enum Assignment.deps.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\bin\Debug\net8.0\Enum Assignment.runtimeconfig.json
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\bin\Debug\net8.0\Enum Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\bin\Debug\net8.0\Enum Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\refint\Enum Assignment.dll
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.pdb
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\Enum Assignment.genruntimeconfig.cache
+C:\Users\Phil\Desktop\Basic_C#_Programs\Enum Assignment\obj\Debug\net8.0\ref\Enum Assignment.dll
