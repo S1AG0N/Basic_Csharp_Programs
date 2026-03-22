@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Instructors";
+}
+
+<h2>Instructors</h2>
+
+@{ 
+    foreach(StudentsMVC.Models.Instructor instructor in Model)
+            {
+                <h4>
+                    @instructor.FirstName
+                </h4>
+            }
+}
+
+

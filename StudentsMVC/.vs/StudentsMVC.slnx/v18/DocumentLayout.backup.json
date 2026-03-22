@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentsmvc\\studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentsmvc\\studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentsmvc\\studentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\studentsmvc\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\studentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\studentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\studentsmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F0310D-B15A-4273-B6B4-CA1EE03C25A5}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T21:26:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:12:44.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "StudentsMVC\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T00:21:41.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T00:11:26.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T23:56:50.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T23:25:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentsMVC\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:34:40.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
