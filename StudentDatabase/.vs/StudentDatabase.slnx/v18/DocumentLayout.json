@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentdatabase\\studentdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentdatabase\\studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentdatabase\\studentdatabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\studentdatabase\\studentdatabase\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F3FD3-1264-449A-95B9-264B550C9B45}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\App.config",
+              "RelativeDocumentMoniker": "StudentDatabase\\App.config",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\App.config",
+              "RelativeToolTip": "StudentDatabase\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-23T11:07:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\StudentContext.cs",
+              "RelativeToolTip": "StudentDatabase\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:55:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\Student.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Student.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\Student.cs",
+              "RelativeToolTip": "StudentDatabase\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:54:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeToolTip": "StudentDatabase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:52:57.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
