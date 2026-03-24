@@ -19,7 +19,7 @@ Who needs a casino? Built a fully playable Blackjack game that runs right in the
 
 **What I learned:** OOP fundamentals, abstract classes, interfaces, collections, game loop logic
 
-**Built with:** C#, .NET Framework, Visual Studio 2022
+**Built with:** C#, .NET Framework, Visual Studio 2026
 
 ---
 
@@ -29,7 +29,7 @@ Ever wondered how insurance websites calculate your quote? Me too — so I built
 
 **What I learned:** ASP.NET MVC, Controller/View/Model pattern, form handling, business logic, admin views
 
-**Built with:** C#, ASP.NET MVC, .NET Framework, Visual Studio 2022
+**Built with:** C#, ASP.NET MVC, .NET Framework, Visual Studio 2026
 
 ---
 
@@ -39,7 +39,7 @@ A web app that takes parcel details and spits out a shipping cost. Simple concep
 
 **What I learned:** ASP.NET MVC, model binding, form submission, quote calculation logic
 
-**Built with:** C#, ASP.NET MVC, .NET Framework, Visual Studio 2022
+**Built with:** C#, ASP.NET MVC, .NET Framework, Visual Studio 2026
 
 ---
 
@@ -49,7 +49,17 @@ A web app where users can sign up for a newsletter. Sounds simple, but this one 
 
 **What I learned:** ASP.NET MVC, SQL Server, ADO.NET, connection strings, CRUD operations
 
-**Built with:** C#, ASP.NET MVC, SQL Server, .NET Framework, Visual Studio 2022
+**Built with:** C#, ASP.NET MVC, SQL Server, .NET Framework, Visual Studio 2026
+
+## Entity Framework Code First — Blogging App
+ 
+This one introduced me to Entity Framework and the Code First approach — where you write your C# classes and EF generates the database for you. The app lets you create a blog entry from the console and saves it straight to a SQL database, then reads it all back out. Simple on the surface but a big concept underneath.
+ 
+The model has a `Blog` and a `Post` with a one-to-many relationship between them — good practice for understanding how EF handles navigation properties and foreign keys without writing a single line of SQL.
+ 
+**What I learned:** Entity Framework 6, Code First workflow, DbContext, DbSet, LINQ queries, one-to-many relationships, navigation properties
+ 
+**Built with:** C#, Entity Framework 6, SQL Server, .NET Framework, Visual Studio 2026
 
 ---
 
