@@ -51,6 +51,8 @@ A web app where users can sign up for a newsletter. Sounds simple, but this one 
 
 **Built with:** C#, ASP.NET MVC, SQL Server, .NET Framework, Visual Studio 2026
 
+---
+
 ## Entity Framework Code First — Blogging App
  
 This one introduced me to Entity Framework and the Code First approach — where you write your C# classes and EF generates the database for you. The app lets you create a blog entry from the console and saves it straight to a SQL database, then reads it all back out. Simple on the surface but a big concept underneath.
