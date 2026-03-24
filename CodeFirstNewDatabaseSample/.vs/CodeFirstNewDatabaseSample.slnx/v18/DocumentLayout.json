@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CodeFirstNewDatabaseSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13AA67E3-FEDA-47A0-A1CE-74D6CD07E368}|CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\codefirstnewdatabasesample\\codefirstnewdatabasesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AA67E3-FEDA-47A0-A1CE-74D6CD07E368}|CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj|solutionrelative:codefirstnewdatabasesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB60ADBF-1438-C994-399D-5D0BBAAB450D}|CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\codefirstnewdatabasesample\\codefirstnewdatabasesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60ADBF-1438-C994-399D-5D0BBAAB450D}|CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample.csproj|solutionrelative:codefirstnewdatabasesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "CodeFirstNewDatabaseSample\\Program.cs",
               "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CodeFirstNewDatabaseSample\\CodeFirstNewDatabaseSample\\Program.cs",
               "RelativeToolTip": "CodeFirstNewDatabaseSample\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T09:43:16.564Z",
               "EditorCaption": ""

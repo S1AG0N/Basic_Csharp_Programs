@@ -83,11 +83,14 @@ namespace Insuranc.Controllers
                 quote += 25;
 
             // Car make/model rules
-            if (insuree.CarMake.ToLower() == "porsche")
+            if (insuree.CarMake?.ToLower() == "porsche")
             {
                 quote += 25;
-                if (insuree.CarModel.ToLower() == "911 carrera")
+                if (insuree.CarModel?.ToLower() == "911 carrera")
+                {
                     quote += 25;
+                }
+                  
             }
 
             // Speeding tickets — $10 each
@@ -132,6 +135,7 @@ namespace Insuranc.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");

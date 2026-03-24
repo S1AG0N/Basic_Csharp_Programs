@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\",
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\insuranc\\insuranc\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\insuranc\\insuranc\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\insuranc\\insuranc\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\insuranc\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\insuranc\\insuranc\\models\\insurancentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\insuranc\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\insuranc\\models\\insurancentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\models\\insurancentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\insuranc\\insuranc\\web1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|c:\\users\\phil\\desktop\\basic_csharp_programs\\carinsurance\\insuranc\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\insuranc\\web1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7DB8B497-1ED6-4F24-9BC2-FE6DB7321957}|Insuranc\\Insuranc.csproj|solutionrelative:insuranc\\web1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -30,28 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Views\\Insuree\\Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Views\\Insuree\\Admin.cshtml",
               "RelativeDocumentMoniker": "Insuranc\\Views\\Insuree\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Views\\Insuree\\Admin.cshtml",
               "RelativeToolTip": "Insuranc\\Views\\Insuree\\Admin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-22T21:44:41.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Views\\Insuree\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Views\\Insuree\\Create.cshtml",
               "RelativeDocumentMoniker": "Insuranc\\Views\\Insuree\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Views\\Insuree\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Views\\Insuree\\Create.cshtml",
               "RelativeToolTip": "Insuranc\\Views\\Insuree\\Create.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -60,24 +60,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "InsureeController.cs",
-              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Controllers\\InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Controllers\\InsureeController.cs",
               "RelativeDocumentMoniker": "Insuranc\\Controllers\\InsureeController.cs",
-              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Controllers\\InsureeController.cs",
               "RelativeToolTip": "Insuranc\\Controllers\\InsureeController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAmwLAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwFsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T21:21:58.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "InsurancEntities.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Models\\InsurancEntities.edmx",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Models\\InsurancEntities.edmx",
               "RelativeDocumentMoniker": "Insuranc\\Models\\InsurancEntities.edmx",
-              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Models\\InsurancEntities.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Models\\InsurancEntities.edmx [Diagram1]",
               "RelativeToolTip": "Insuranc\\Models\\InsurancEntities.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2026-03-22T21:10:20.222Z",
@@ -87,14 +87,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Web1.config",
-              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Web1.config",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Web1.config",
               "RelativeDocumentMoniker": "Insuranc\\Web1.config",
-              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\Insuranc\\Insuranc\\Web1.config",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Basic_Csharp_Programs\\CarInsurance\\Insuranc\\Web1.config",
               "RelativeToolTip": "Insuranc\\Web1.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-22T21:08:44.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T21:08:44.513Z"
             }
           ]
         }
